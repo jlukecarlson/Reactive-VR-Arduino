@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://admin:vrpenn2016@ds011820.mlab.com:11820/vr-penn"
+    }
+  }
+}
